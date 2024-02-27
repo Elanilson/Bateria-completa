@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bateria completa</string>
+    <string name="alarme_on">Alarm On</string>
+    <string name="alarme_off">Alarm Off</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="voltagem">Voltagem</string>
+    <string name="status">Status</string>
+    <string name="conectado">Conectado</string>
+    <string name="saude">Saúde</string>
+    <string name="tecnologia">Tecnologia</string>
+    <string name="boa">Boa</string>
+</resources>
